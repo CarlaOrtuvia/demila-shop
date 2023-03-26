@@ -1,0 +1,33 @@
+.container {
+    width: 98%;
+    margin: auto;
+
+}
+@media  screen and (min-width:768px) {
+    .container{
+        width: 70%;
+    }
+}
+.detail {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.image-detail {
+    width: 100%;
+}
+.title-detail{
+    width: 100%;
+    font-family:'Kanit', sans-serif ;
+}
+@media screen and (min-width:768px) {
+    .image-detail{
+        width: 70%;
+    }
+    .title-detail{
+        width: 70%;
+        padding-left: 3rem;
+    }
+}

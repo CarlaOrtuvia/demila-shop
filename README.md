@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Este es mi app de React, realizada como entrega final para el curso de react. El mismo se cursa en CoderHouse.
+Mi app es una Aplicación de compras en línea.
+El proyecto corre por si mismo, para realizarlo, he utilizado Boostrap para dar estilos, y que sea más agradable y visualmente utilizable. Y asi poder lograr el objetivo de vender el producto.
+tambien utilice react-router-dom para generar los enlaces y hacer mas navegable la pagina, se realiza el filtrado por categoría, desplegando el detalle y propiciando la adquisición del producto, renderizando hacia el carrito de compra.
+Tambien utilicé firebase y farestore, para manejar los items almacenados y para pushear los datos mediante oredenes de compras harcodeadas, por ahora, que se pueden ver consola.
+Ahí finaliza el proyecto con la generacion de la orden de compra.
